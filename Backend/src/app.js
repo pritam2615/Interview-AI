@@ -12,7 +12,7 @@ app.use(cookieParser())
 // }))
 
 app.use(cors({
-    origin: "*",
+    origin: "https://interview-ai-frontend-1cu3.onrender.com",
     credentials: true
 }))
 

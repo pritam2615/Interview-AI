@@ -18,6 +18,7 @@ Fast and responsive system for seamless interaction.
 
 
 🛠️ Tech Stack
+
 Frontend:
 React + Vite 
 

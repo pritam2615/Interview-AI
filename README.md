@@ -18,18 +18,22 @@ Fast and responsive system for seamless interaction.
 
 
 🛠️ Tech Stack
-
-Frontend
+Frontend:
 React + Vite 
 
-Backend
-Node.js + Express
-MongoDB + Mongoose
-JWT Auth
+Backend:
+Node.js + Express,
+MongoDB + Mongoose,
+JWT Auth,
 CORS, dotenv
 
-AI Integration
+AI Integration:
 Gemini API
+
+
+📸 Screenshot
+<img width="1233" height="894" alt="image" src="https://github.com/user-attachments/assets/520ed566-7ed3-453b-8842-1e47e5764a26" />
+
 
 Live Demo - [https://fintrack-1-nds5.onrender.com/](https://interview-ai-frontend-1cu3.onrender.com/)
 

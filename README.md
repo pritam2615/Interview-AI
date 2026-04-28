@@ -21,13 +21,11 @@ Fast and responsive system for seamless interaction.
 
 Frontend:
 React + Vite 
-
 Backend:
 Node.js + Express,
 MongoDB + Mongoose,
 JWT Auth,
 CORS, dotenv
-
 AI Integration:
 Gemini API
 
